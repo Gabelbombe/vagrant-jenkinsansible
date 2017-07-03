@@ -1,0 +1,6 @@
+1 ---
+2 - src: ehime.firewall
+3 - src: ehime.ntp
+4 - src: ehime.git
+5 - src: ehime.java
+6 - src: ehime.jenkins
